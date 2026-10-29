@@ -1,0 +1,6 @@
+torch>=2.2
+transformers>=4.45
+librosa>=0.10
+soundfile>=0.12
+numpy>=1.24
+imageio-ffmpeg>=0.5  # fallback ffmpeg if none is on PATH
